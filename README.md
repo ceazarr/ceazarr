@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceazarr
-- 👀 I’m interested in AI. Machine Learning, and Data Science
-- 🌱 I’m currently doing my bachelor in Electriacal Engineering and Information Technology
-- 💞️ I’m looking to collaborate on any project that attracts my attention and boost my CV
+- 👀  AI, quantum computing, blockchain technology, and bio-engineering Enthusiast :)
+- 🌱 I’m currently doing my bachelor's in Electrical Engineering and Computer Science
+- 💞️ Looking to start an advanced portfolio and collaborate with people on the topics listed above, and of course try to contribute to the coding society
 - 📫 How to reach me haddadceazar@gamil.com
 
 <!---
