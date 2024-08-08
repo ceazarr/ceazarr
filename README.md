@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ceazarr
-- 👀  AI, quantum computing, blockchain technology, and bio-engineering Enthusiast :)
-- 🌱 I’m currently doing my bachelor's in Electrical Engineering and Computer Science
-- 📫 Shoot me an Email haddadceazar@gmail.com or add me on LinkedIn
+- 👀 Crazy Tech all day every day (we might die because of it but at least we tried :) )
+- 📫 Shoot me an Email haddadceazar@gmail.com or add me on LinkedIn www.linkedin.com/in/ceazar-haddad
+
 
 <!---
 ceazarr/ceazarr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
