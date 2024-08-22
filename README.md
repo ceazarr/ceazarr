@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ceazarr
-- 👀 Crazy Tech all day every day (we might die because of it but at least we tried :) )
+- 👀 YUTORI
 - 📫 Shoot me an Email haddadceazar@gmail.com or add me on LinkedIn www.linkedin.com/in/ceazar-haddad
 
 
